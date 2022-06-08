@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"scientific-demon",
+			"scrap",
+			[
+				220,
+				53,
+				55
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "scrape",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Scrapeface",
+	"weekName": "weekscrapeface",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
